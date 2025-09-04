@@ -1,2 +1,10 @@
 {
+    "chat.mcp.autostart": "newAndOutdated",
+    "chat.mcp.discovery.enabled": true,
+    "chat.mcp.servers": {
+        "Figma Dev Mode MCP": {
+            "type": "http",
+            "url": "http://127.0.0.1:3845/mcp"
+        }
+    }
 }
